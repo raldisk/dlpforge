@@ -1,1 +1,1 @@
-<h1> My personal yt-dlp configs w/ <b>Tweaks</b> </h1>
+<h1> My personal <i>yt-dlp</i> configs w/ <b>Tweaks</b> </h1>
